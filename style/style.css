@@ -1,0 +1,12 @@
+.t1{
+    font-family: Anton
+
+}
+.btn1{
+    padding: 25px 85px;
+    color: white;
+    background-color: blue;
+}
+.btn1:hover{
+    background-color: green;
+}
